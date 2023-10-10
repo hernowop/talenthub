@@ -5,7 +5,7 @@
 ![alt text](https://i.ibb.co/VvB9LxK/Business-Logic.jpg) <br>
 Gambar di atas adalah visualisasi terkait alur kerja dari aplikasi belanja online<br><br>
 
-![alt text](https://i.ibb.co/Xk9tqG2/Databse-Diagram.jpg)<br>
+![alt text](https://i.ibb.co/VJ6TyVw/Databse-Diagram.jpg)<br>
 Diagram di atas adalah visualisasi dari hubungan relasi antar database di di mana ada 3 entitas yang kami buat yaitu :
 1. Customer
 2. Product
